@@ -1,2 +1,2 @@
 # Tensorflow-Training
-Code snippets creates while learning tensorflow
+Code snippets created while learning tensorflow
